@@ -1,6 +1,14 @@
 {
   "name": "tinymiceditor",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "description": "TinyMCE React editor package",
+  "author": "nagaraju",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bethinagaraju/tinymce-editor.git"
+  },
+  "main": "src/Tinymce.js",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -11,6 +19,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
+    "tinymiceditor": "^0.2.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
